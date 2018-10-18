@@ -89,6 +89,10 @@ namespace EleneDeTroya
             Console.WriteLine("Esta herido ==> RETIRADA");
 
         }
+        public void MostrarDatos()
+        {
+            Console.WriteLine("Maaaaaaaaaaaaaaaaaaaaximuuuuuuuuus")
+        }
 
     }
 }
